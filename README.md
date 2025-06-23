@@ -23,6 +23,21 @@ As this toolkit is still an early build, it is not currently available on PyPi /
 
 This should install the mango package to your environment which you can then import into a Python. Please see readthedocs for a tutorial on how this framework is intended to be used.
 
+# Citation
+
+If you use this application in your work, we kindly ask that you use the following citation:
+
+Vetturini, Anthony J, Jonathan Cagan, and Rebecca E Taylor. “Generative Design-Enabled Exploration of Wireframe DNA Origami Nanostructures.” Nucleic Acids Research 53, no. 2 (January 27, 2025): gkae1268. https://doi.org/10.1093/nar/gkae1268.
+
+
+# Funding
+
+This work was supported through the following:
+
+- National Science Foundation [CMMI-2113301]
+- Air Force Office of Scientific Research [FA9550-22-1-0147]
+- National Defense Science and Engineering Graduate Fellowship
+
 # Requirements
 
 Python Version >= 3.9
